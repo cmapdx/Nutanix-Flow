@@ -1,0 +1,39 @@
+{
+  "PrismCentral": "10.48.52.200",
+  "Logfile": "C:/HP/CategoryUpdate",
+  "UserName": "admin",
+  "Password": "blahblah!",
+  "Category": {
+    "AppType": {
+      "Apps_A-C": "Applications A to C",
+      "Apps_D-K": "Applications D to K",
+      "Apps-L-R": "Applications L to R",
+      "Apps-S-Z": "Applications S to Z"
+    },
+    "Apps_A-C": {
+      "ACCT": "Accounting",
+      "ANSIBLE": "Ansible Automation & Config Magement",
+      "APP": "General application server",
+      "BUDGET": "Budgeting & Planning",
+      "COM": "Commvault",
+      "CTX": "Citrix"
+    },
+    "Apps_D-K": {
+      "DEVOPS": "DevOps",
+      "EMAIL": "Email",
+      "FPS": "File & Print Services",
+      "HR": "Human Resouces"
+    },
+    "Apps-L-R": {
+      "LEGACY": "Legacy Systems",
+      "LEGAL": "Legal",
+      "LIC": "License Server (multiple vendors)",
+      "MONITOR": "Monitoring"
+    },
+    "Apps-S-Z": {
+      "SAAS": "Software As a Service",
+      "SECURITY": "Security",
+      "VIDEO": "Video Teleconferencing"
+    }
+  }
+}
